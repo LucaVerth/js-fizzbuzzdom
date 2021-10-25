@@ -1,0 +1,28 @@
+body{
+  background-color: #073B4C;
+}
+
+.lv_row{
+  width: 60%;
+  margin: 0 auto;
+}
+
+.box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1189B2;
+  width: 80px;
+  height: 80px;
+  margin: 10px;
+}
+
+.mult3{
+  background-color: #08D6A1;
+}
+.mult5{
+  background-color: #FFD066;
+}
+.multboth{
+  background-color: #F0466F;
+}
